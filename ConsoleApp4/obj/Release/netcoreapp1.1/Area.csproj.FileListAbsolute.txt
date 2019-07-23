@@ -1,0 +1,10 @@
+c:\users\akhullar\source\repos\ConsoleApp4\ConsoleApp4\bin\Release\netcoreapp1.1\Area.deps.json
+c:\users\akhullar\source\repos\ConsoleApp4\ConsoleApp4\bin\Release\netcoreapp1.1\Area.runtimeconfig.json
+c:\users\akhullar\source\repos\ConsoleApp4\ConsoleApp4\bin\Release\netcoreapp1.1\Area.runtimeconfig.dev.json
+c:\users\akhullar\source\repos\ConsoleApp4\ConsoleApp4\bin\Release\netcoreapp1.1\Area.dll
+c:\users\akhullar\source\repos\ConsoleApp4\ConsoleApp4\bin\Release\netcoreapp1.1\Area.pdb
+c:\users\akhullar\source\repos\ConsoleApp4\ConsoleApp4\obj\Release\netcoreapp1.1\Area.csproj.CoreCompileInputs.cache
+c:\users\akhullar\source\repos\ConsoleApp4\ConsoleApp4\obj\Release\netcoreapp1.1\Area.AssemblyInfo.cs
+c:\users\akhullar\source\repos\ConsoleApp4\ConsoleApp4\obj\Release\netcoreapp1.1\Area.dll
+c:\users\akhullar\source\repos\ConsoleApp4\ConsoleApp4\obj\Release\netcoreapp1.1\Area.pdb
+C:\Users\akhullar\source\repos\ConsoleApp4\ConsoleApp4\obj\Release\netcoreapp1.1\Area.csprojResolveAssemblyReference.cache

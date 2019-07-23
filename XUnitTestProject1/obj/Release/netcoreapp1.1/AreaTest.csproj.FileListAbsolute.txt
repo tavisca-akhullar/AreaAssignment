@@ -1,0 +1,15 @@
+c:\Users\akhullar\source\repos\ConsoleApp4\XUnitTestProject1\bin\Release\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+c:\Users\akhullar\source\repos\ConsoleApp4\XUnitTestProject1\bin\Release\netcoreapp1.1\xunit.runner.reporters.netcoreapp10.dll
+c:\Users\akhullar\source\repos\ConsoleApp4\XUnitTestProject1\bin\Release\netcoreapp1.1\xunit.runner.utility.netcoreapp10.dll
+c:\Users\akhullar\source\repos\ConsoleApp4\XUnitTestProject1\bin\Release\netcoreapp1.1\AreaTest.deps.json
+c:\Users\akhullar\source\repos\ConsoleApp4\XUnitTestProject1\bin\Release\netcoreapp1.1\AreaTest.runtimeconfig.json
+c:\Users\akhullar\source\repos\ConsoleApp4\XUnitTestProject1\bin\Release\netcoreapp1.1\AreaTest.runtimeconfig.dev.json
+c:\Users\akhullar\source\repos\ConsoleApp4\XUnitTestProject1\bin\Release\netcoreapp1.1\AreaTest.dll
+c:\Users\akhullar\source\repos\ConsoleApp4\XUnitTestProject1\bin\Release\netcoreapp1.1\AreaTest.pdb
+c:\Users\akhullar\source\repos\ConsoleApp4\XUnitTestProject1\bin\Release\netcoreapp1.1\Area.dll
+c:\Users\akhullar\source\repos\ConsoleApp4\XUnitTestProject1\bin\Release\netcoreapp1.1\Area.pdb
+c:\Users\akhullar\source\repos\ConsoleApp4\XUnitTestProject1\obj\Release\netcoreapp1.1\AreaTest.csprojResolveAssemblyReference.cache
+c:\Users\akhullar\source\repos\ConsoleApp4\XUnitTestProject1\obj\Release\netcoreapp1.1\AreaTest.csproj.CoreCompileInputs.cache
+c:\Users\akhullar\source\repos\ConsoleApp4\XUnitTestProject1\obj\Release\netcoreapp1.1\AreaTest.AssemblyInfo.cs
+c:\Users\akhullar\source\repos\ConsoleApp4\XUnitTestProject1\obj\Release\netcoreapp1.1\AreaTest.dll
+c:\Users\akhullar\source\repos\ConsoleApp4\XUnitTestProject1\obj\Release\netcoreapp1.1\AreaTest.pdb
