@@ -6,16 +6,16 @@ namespace Area
 {
     public class Square : IShape
     {
-        double Length;
+        private double _length { set; get; };
 
         public Square(double length)
         {
-            Length = length;
+            _length = length;
         }
 
         public double Area()
         {
-            return this.Length * this.Length;
+            return this._length * this._length;
         }
     }
 }

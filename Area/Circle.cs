@@ -6,15 +6,15 @@ namespace Area
 {
     public class Circle : IShape
     {
-         double Radius;
+        private double _radius { get; set; }
         public Circle(double radius)
         {
-            Radius = radius;
+            _radius = radius;
         }
 
         public double Area()
         {
-            return 3.14 * this.Radius * this.Radius;
+            return 3.14 * this._radius * this._radius;
         }
 
     }

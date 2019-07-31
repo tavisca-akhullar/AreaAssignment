@@ -6,18 +6,18 @@ namespace Area
 {
     public class Rectangle : IShape
     {
-        double Length;
-        double Breadth;
+        private double _length { set; get; }
+        private double _breadth { set; get; }
 
         public Rectangle(double length, double breadth)
         {
-            Length = length;
-            Breadth = breadth;
+            _length = length;
+            _breadth = breadth;
         }
 
         public double Area()
         {
-            return this.Length * this.Breadth;
+            return this._length * this._breadth;
         }
 
     }

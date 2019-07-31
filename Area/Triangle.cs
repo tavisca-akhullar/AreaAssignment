@@ -6,20 +6,20 @@ namespace Area
 {
     public class Triangle : IShape
     {
-        double Length;
-        double Base;
-        double Height;
+      private  double _length { set; get; }
+        private double _base { set; get; }
+        private double _height { set; get; }
 
         public Triangle(double length, double breadth, double height)
         {
-            Length = length;
-            Base = breadth;
-            Height = height;
+            _length = length;
+            _base = breadth;
+            _height = height;
         }
 
         public double Area()
         {
-            return (this.Height * this.Base) / 2;
+            return (this._height * this._base) / 2;
         }
     }
 }
